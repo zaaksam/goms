@@ -1,5 +1,5 @@
 # goms
-An out-of-the-box service mesh
+A lightweight service mesh
 
 
 TODO
